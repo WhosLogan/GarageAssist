@@ -28,5 +28,11 @@
 	</array>
 	<key>XSAppIconAssets</key>
 	<string>Assets.xcassets/appicon.appiconset</string>
+	<key>CFBundleIdentifier</key>
+	<string>dev.loganthe.GarageAssist</string>
+	<key>CFBundleDisplayName</key>
+	<string>Garage Assist</string>
+	<key>CFBundleVersion</key>
+	<string>1.0.0.0</string>
 </dict>
 </plist>
